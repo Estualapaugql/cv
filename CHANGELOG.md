@@ -8,3 +8,13 @@
 
 <p align="center">
   <a href="http://bit.ly/tomascv?ref=changelog">
+    <img src="assets/img/cv-demo-01.gif" max-width="640px" max-height="360px" alt="Modern CV, Resume and Portfolio website template" />
+  </a>
+</p>
+
+<!-- # Best-in-Class modern CV, Resume and Portfolio # -->
+
+<h4 align="center">Best-in-Class modern CV, Resume and Portfolio website template</h4>
+<h5 align="center"><strong>All-in-One-Page</strong> site with fully customizable builder</h5>
+
+<p align="center">
