@@ -18,3 +18,13 @@
 <h5 align="center"><strong>All-in-One-Page</strong> site with fully customizable builder</h5>
 
 <p align="center">
+  <code>cv</code>
+  <code>resume</code>
+  <code>portfolio</code>
+  <code>template</code>
+  <code>portfolio-website</code>
+  <code>cv-template</code>
+  <code>IT</code>
+  <code>resume-template</code>
+  <code>resume-website</code>
+</p>
