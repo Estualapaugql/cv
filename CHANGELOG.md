@@ -38,3 +38,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 <!-- ##### Added: ##### -->
 <!-- ##### Changed: ##### -->
 <!-- ##### Fixed: ##### -->
+<!-- ##### Removed: ##### -->
+
+<!-- --- -->
+
+<!-- ## [Unreleased] - Current ## -->
+<!-- ## [v0.3.1](Unreleased) - Current ## -->
+
+---
+
+## [Slava-Ukraini](https://github.com/tbaltrushaitis/cv/releases/tag/v0.3.1) - 2022-10-30 ##
